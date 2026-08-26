@@ -276,6 +276,6 @@ const puntiFestival = [
         ];
 
         const puntiInfo = [
-            { desc: "Bancarella INFOPOINT (Via Italia)", lat: 45.137691, lng: 7.771094 },
-            { desc: "Bancarella INFOPOINT (Comune)", lat: 45.137039, lng: 7.771489 }
+            { desc: "Stand INFOPOINT (Via Italia)", lat: 45.137691, lng: 7.771094 },
+            { desc: "Stand INFOPOINT (Dentro Torre)", lat: 45.136766, lng: 7.771470 }
         ];
