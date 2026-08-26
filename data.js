@@ -21,7 +21,7 @@ const puntiFestival = [
                 programma: [
                     { giorno: "10/10", ora: "10:30", evento: "L'ora del racconto - Reazioni a Catena", relatore: "Associazione Teatrulla" },
                     { giorno: "10/10", ora: "12:00", evento: "L'immaginario artificiale", relatore: "Donatella Della Ratta e Antonio Santangelo" },
-                    { giorno: "10/10", ora: "15:00", evento: "Ci vuole coraggio per raccontare la verità", relatore: "Giulia Bosetti, Elisa Marincola e Filippi Morione" },
+                    { giorno: "10/10", ora: "15:00", evento: "Ci vuole coraggio per raccontare la verità", relatore: "Giulia Bosetti, Elisa Marincola e Filippi Morrione" },
                     { giorno: "10/10", ora: "17:00", evento: "Piante in Movimento", relatore: "Francesco Tomasinelli e Maria Consolata Sinsalco" }
                 ]
             },
@@ -58,7 +58,7 @@ const puntiFestival = [
                 programma: [
                     { giorno: "10/10", ora: "11:30", evento: "Evento istituzionale con camera di commercio" },
                     { giorno: "10/10", ora: "15:00", evento: "Lo Spazio che diventa Industria", relatore: "Giuseppe Santangelo" },
-                    { giorno: "10/10", ora: "16:30", evento: "La Cura Intelligente", relatore: "Alessandro Vercelli, Marco Bazzani e NICO" },
+                    { giorno: "10/10", ora: "16:30", evento: "La Cura Intelligente", relatore: "Alessandro Vercelli, Marco Bazzani" },
                     { giorno: "10/10", ora: "18:00", evento: "SETA?" }
                 ]
             },
@@ -91,7 +91,7 @@ const puntiFestival = [
             },
             {
                 titolo: "Via Partigiani 4",
-                nome: "Suoneria",
+                nome: "Teatro Garybaldi",
                 lat: 45.1429134,
                 lng: 7.7767043,
                 linkAgenda: "https://www.innova7.it",
