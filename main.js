@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         document.addEventListener('click', (e) => {
             if (!e.target.closest('.search-container')) {
-                searchResults.classList.remove('active');
+                Risultati.classList.remove('active');
             }
         });
     }
