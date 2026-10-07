@@ -296,5 +296,5 @@ const puntiFestival = [
 
         const puntiInfo = [
             { desc: "Stand INFOPOINT (Via Italia)", lat: 45.137691, lng: 7.771094 },
-            { desc: "Stand INFOPOINT (Dentro Torre)", lat: 45.136766, lng: 7.771470 }
+            { desc: "Stand INFOPOINT (Torre)", lat: 45.137046, lng: 7.771505 }
         ];
