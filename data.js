@@ -292,9 +292,7 @@ const puntiFestival = [
             { numero: 6, desc: "MU-CH - Museo della Chimica e Eduiren", lat: 45.137326, lng: 7.769879 },
             { numero: 5, desc: "Ecomuseo del Freidano", lat: 45.137273, lng: 7.769716 },
             { numero: 4, desc: "Associazione CentroScienza Onlus", lat: 45.137175, lng: 7.769507 },
-            { numero: 3, desc: "Biblioteca Archimede", lat: 45.137065, lng: 7.769265 },
-            { numero: 2, desc: "Seta S.p.A - Società Ecologica Territorio Ambiente", lat: 45.136738, lng: 7.769198 },
-            { numero: 1, desc: "Seta S.p.A - Società Ecologica Territorio Ambiente", lat: 45.136812, lng: 7.769241 }
+            { numero: 3, desc: "Biblioteca Archimede", lat: 45.137065, lng: 7.769265 }
         ];
 
         const puntiInfo = [
