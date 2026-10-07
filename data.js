@@ -68,7 +68,7 @@ const puntiFestival = [
                 lat: 45.1358717,
                 lng: 7.7662564,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                avvisoMaltempo: "⚠️ TUTTI GLI EVENTI DI SABATO SARANNO QUI IN CASO DI MALTEMPO!",
+                avvisoMaltempo: "⚠️ TUTTI GLI EVENTI DI SABATO SARANNO QUI IN CASO DI MALTEMPO! MAGGIORI INFORMAZIONI SUI CANALI SOCIAL E SITO INNOVA7.IT ⚠️",
                 programma: [
                     { giorno: "06/10", ora: "18:30", evento: "L'asimetria e la vita", relatore: "Antonio Calabrò, Ilaria Gasparri, Simone Arcagni" },
                     { giorno: "09/10", ora: "18:00", evento: "Reazioni al Futuro", relatore: "Barbara Galavotti" },
