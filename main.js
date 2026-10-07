@@ -14,12 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const map = L.map('map').setView([45.138151, 7.769802], 18);
 
-    const lightTiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    const lightTiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png?key=cb1_4d2e_1_0df30db71ee4a306493b9be4', {
         maxZoom: 19,
         attribution: '&copy; OpenStreetMap &copy; CARTO'
     });
 
-    const darkTiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    const darkTiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=cb1_4d2e_1_0df30db71ee4a306493b9be4', {
         maxZoom: 19,
         attribution: '&copy; OpenStreetMap &copy; CARTO'
     });
