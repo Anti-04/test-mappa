@@ -7,7 +7,6 @@ const puntiFestival = [
                 lng: 7.771170,
                 linkAgenda: "https://www.innova7.it",
                 programma: [
-                    { giorno: "10/10", ora: "11:00", evento: "Quando tutto cambia. Le reazioni umane tra emozioni, conflitti e violenza", relatore: "Roberta Bruzzone", noprenot: "INGRESSO LIBERO" },
                     { giorno: "10/10", ora: "15:00", evento: "Questione di millesimi", relatore: "Filippo Tortu e Alessia Succo", noprenot: "INGRESSO LIBERO" },
                     { giorno: "10/10", ora: "17:00", evento: "Presentazione libro 'Caro Sapiens'", relatore: "Mario Tozzi", noprenot: "INGRESSO LIBERO" }
                 ]
