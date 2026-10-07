@@ -5,7 +5,7 @@ const puntiFestival = [
                 nome: "Palco Piazza della Libertà",
                 lat: 45.137213,
                 lng: 7.771170,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "15:00", evento: "Questione di millesimi", relatore: "Filippo Tortu e Alessia Succo", noprenot: "INGRESSO LIBERO" },
                     { giorno: "10/10", ora: "17:00", evento: "Presentazione libro 'Caro Sapiens'", relatore: "Mario Tozzi", noprenot: "INGRESSO LIBERO" }
@@ -16,7 +16,7 @@ const puntiFestival = [
                 nome: "Cortile dell'Angelo",
                 lat: 45.138108,
                 lng: 7.771339,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "10:30", evento: "L'ora del racconto - Reazioni a Catena", relatore: "Associazione Teatrulla" },
                     { giorno: "10/10", ora: "12:00", evento: "L'immaginario artificiale", relatore: "Donatella Della Ratta e Antonio Santangelo" },
@@ -29,7 +29,7 @@ const puntiFestival = [
                 nome: "Cortile Via Italia 36",
                 lat: 45.1371423,
                 lng: 7.7700553,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "11:00", evento: "Reazioni Nucleari, Il futuro del atomo", relatore: "Roberto Zanino e Andrea Barbensi" },
                     { giorno: "10/10", ora: "15:30", evento: "Reazioni a Tavola", relatore: "Franco Fassio e Roberto Moncalvo" },
@@ -41,7 +41,7 @@ const puntiFestival = [
                 nome: "Via Don Sales",
                 lat: 45.137061,
                 lng: 7.769619,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "11:30", evento: "Reagire insieme", relatore: "Ona Sharka e Dario Russo" },
                     { giorno: "10/10", ora: "15:30", evento: "La miniera che hai in tasca", relatore: "Annalisa Abdel Azim e Chiara Magrini" },
@@ -53,7 +53,7 @@ const puntiFestival = [
                 nome: "Pieve",
                 lat: 45.138997,
                 lng: 7.768487,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "11:30", evento: "Evento istituzionale con camera di commercio" },
                     { giorno: "10/10", ora: "15:00", evento: "Lo Spazio che diventa Industria", relatore: "Giuseppe Santangelo" },
@@ -67,7 +67,7 @@ const puntiFestival = [
                 nome: "Biblioteca Archimede",
                 lat: 45.1358717,
                 lng: 7.7662564,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 avvisoMaltempo: "⚠️ TUTTI GLI EVENTI DI SABATO SARANNO QUI IN CASO DI MALTEMPO!",
                 programma: [
                     { giorno: "06/10", ora: "18:30", evento: "L'asimetria e la vita", relatore: "Antonio Calabrò, Ilaria Gasparri, Simone Arcagni" },
@@ -82,7 +82,7 @@ const puntiFestival = [
                 nome: "Ecomuseo del Freidano",
                 lat: 45.1369476,
                 lng: 7.7803988,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "dalle 09:45 alle 11:15", evento: "Workshop di degustazione del acqua", relatore: "SMAT"},
                     { giorno: "dal 04/10 al 11/10", ora: "dalle 15:00 alle 18:00", evento: "Piante Guerriere: Viaggio tra i vegetali che pensano di essere animali.", relatore: "Raffaella Fiore e Francesco Tomasinelli", noprenot: "INGRESSO LIBERO" }
@@ -93,7 +93,7 @@ const puntiFestival = [
                 nome: "Teatro Garybaldi",
                 lat: 45.1429134,
                 lng: 7.7767043,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "10/10", ora: "21:00", evento: "Spettacolo 50 Sfumature di Sapiens", relatore: "Mario Tozzi" }
                 ]
@@ -103,7 +103,7 @@ const puntiFestival = [
                 nome: "Torino Outlet Village",
                 lat: 45.128189,
                 lng: 7.737677,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "04/10", ora: "11:00", evento: "SCIENCE DEMO", relatore: "MU-CH", noprenot: "INGRESSO LIBERO" },
                     { giorno: "04/10", ora: "16:30", evento: "REAZIONI IN CORSO: VIETATO NON CURIOSARE", relatore: "Junior Science", noprenot: "INGRESSO LIBERO" }
@@ -118,7 +118,7 @@ const puntiFestival = [
                 nome: "Spazio Giovani del Comune di Avigliana",
                 lat: 45.085256,
                 lng: 7.395161,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "07/10", ora: "11:00", evento: "Lascia scorrere", relatore: "Riccardo Maria Degiovanni" }]
             },
             {
@@ -126,7 +126,7 @@ const puntiFestival = [
                 nome: "Biblioteca 'Primo Levi'",
                 lat: 45.085157,
                 lng: 7.395287,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "09/10", ora: "16:30", evento: "Videogiochi e gioco d'azzardo", relatore: "Mauro Maurino, Marta Gullone" },
                     { giorno: "10/10", ora: "10:30", evento: "SABATI FAVOLOSI: Colori e colori", relatore: "Ilaria Franco" }
@@ -137,7 +137,7 @@ const puntiFestival = [
                 nome: "Sala del Consiglio Comunale",
                 lat: 45.1770235,
                 lng: 7.8422854,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "04/10", ora: "11:00", evento: "Scienziatə sarai tu!", relatore: "Andrea Vico" },
                     { giorno: "04/10", ora: "15:30", evento: "Donne sulla Luna", relatore: "Ilaria Franco" },
@@ -149,7 +149,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'Cesare Pavese'",
                 lat: 45.177246,
                 lng: 7.842712,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "04/10", ora: "15:30", evento: "Un cervello dell’età della pietra nell’era digitale", relatore: "Andrea Vico" }]
             },
             {
@@ -157,7 +157,7 @@ const puntiFestival = [
                 nome: "Salone Polivalente",
                 lat: 45.1205369,
                 lng: 7.8153922,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "06/10", ora: "21:00", evento: "Reazioni nucleari che fanno bene alla salute", relatore: "Anna Vigniati" },
                     { giorno: "09/10", ora: "21:00", evento: "Reazioni: non è solo cibo", relatore: "Dott.ssa Alessandra Totaro" }
@@ -168,7 +168,7 @@ const puntiFestival = [
                 nome: "Impianto di depurazione SMAT",
                 lat: 45.132917,
                 lng: 7.789323,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "04/10", ora: "Visite dalle 10:00 alle 17:00", evento: "VISITE GUIDATE ALL’IMPIANTO DI DEPURAZIONE SMAT", relatore: "SMAT" }]
             },
             {
@@ -176,7 +176,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'Nicolò e Paola Francone'",
                 lat: 45.015165,
                 lng: 7.819626,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "06/10", ora: "21:00", evento: "Mostra - 1925 2025 Payne e Leavitt", relatore: "Infini.to - Planetario di Torino" }]
             },
             {
@@ -184,7 +184,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica di Collegno",
                 lat: 45.071363,
                 lng: 7.561855,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "10/10", ora: "10:30", evento: "Truffe online: conoscere per prevenire", relatore: "Polizia Municipale Collegno" }]
             },
             {
@@ -192,7 +192,7 @@ const puntiFestival = [
                 nome: "Teatro civico 'L. Pavarotti'",
                 lat: 45.183748,
                 lng: 7.715345,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "09/10", ora: "21:00", evento: "L'Intelligenza Artificiale e il futuro della democrazia", relatore: "Sergio Bellucci" }]
             },
             {
@@ -200,7 +200,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'A. Arduino'",
                 lat: 44.999583,
                 lng: 7.686653,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [{ giorno: "08/10", ora: "18:00", evento: "La scienza dell'umore", relatore: "Marina Boido e Filippo Tempia" }]
             },
             {
@@ -208,7 +208,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'G. Arpino'",
                 lat: 44.994686,
                 lng: 7.638140,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "05/10", ora: "20:45", evento: "Sensi, sinapsi e seduzione", relatore: "Stefano Zucca" },
                     { giorno: "09/10", ora: "20:45", evento: "La fabbrica del corpo", relatore: "Annalisa Buffo" }
@@ -219,7 +219,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'Dario Guzzon'",
                 lat: 45.141146,
                 lng: 7.531756,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "06/10", ora: "15:00", evento: "Reazioni chimiche nel trattamento acque", relatore: "Dott.ssa Stefania De Pandis" },
                     { giorno: "08/10", ora: "15:00", evento: "Psiche e Reazioni", relatore: "Dott.ssa Bruna Costadone" },
@@ -231,7 +231,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'Germana Bocca'",
                 lat: 45.105591,
                 lng: 7.770475,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "05/10", ora: "17:00", evento: "Reazioni a catena: storie per crescere" },
                     { giorno: "09/10", ora: "15:30", evento: "Reagire all'esistenza", relatore: "Maria Giuseppa Lo Santo" }
@@ -242,7 +242,7 @@ const puntiFestival = [
                 nome: "Biblioteca Civica 'Tancredi Milone'",
                 lat: 45.131597,
                 lng: 7.627851,
-                linkAgenda: "https://www.innova7.it",
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
                     { giorno: "09/10", ora: "19:00", evento: "Reazioni Culturali: Insieme in carcere", relatore: "DOC APS" },
                     { giorno: "10/10", ora: "11:30", evento: "La fantastica Reazione", relatore: "Antonio Argenio" }
