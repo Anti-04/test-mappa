@@ -253,26 +253,26 @@ const puntiFestival = [
 
         // i punti delle bancarelle di Via Italia + i punti infopoint
         const puntiBancarelle = [
-            { numero: 20, desc: "Stand n°20", lat: 45.137915, lng: 7.771674 },
-            { numero: 19, desc: "Stand n°19", lat: 45.137875, lng: 7.771548 },
-            { numero: 18, desc: "Stand n°18", lat: 45.137839, lng: 7.771451 },
-            { numero: 17, desc: "Stand n°17", lat: 45.137748, lng: 7.771255 },
-            { numero: 16, desc: "Stand n°16", lat: 45.137653, lng: 7.770875 },
-            { numero: 15, desc: "Stand n°15", lat: 45.137597, lng: 7.770773 },
-            { numero: 14, desc: "Stand n°14", lat: 45.137538, lng: 7.770601 },
-            { numero: 13, desc: "Stand n°13", lat: 45.137426, lng: 7.770325 },
-            { numero: 12, desc: "Stand n°12", lat: 45.137358, lng: 7.770322 },
-            { numero: 11, desc: "Stand n°11", lat: 45.137059, lng: 7.770445 },
-            { numero: 10, desc: "Stand n°10", lat: 45.137226, lng: 7.770290 },
-            { numero: 9, desc: "Stand n°9", lat: 45.137298, lng: 7.770247 },
-            { numero: 8, desc: "Stand n°8", lat: 45.137402, lng: 7.770123 },
-            { numero: 7, desc: "Stand n°7", lat: 45.137332, lng: 7.770030 },
-            { numero: 6, desc: "Stand n°6", lat: 45.137326, lng: 7.769879 },
-            { numero: 5, desc: "Stand n°5", lat: 45.137273, lng: 7.769716 },
-            { numero: 4, desc: "Stand n°4", lat: 45.137175, lng: 7.769507 },
-            { numero: 3, desc: "Stand n°3", lat: 45.137065, lng: 7.769265 },
-            { numero: 2, desc: "Stand n°2", lat: 45.136738, lng: 7.769198 },
-            { numero: 1, desc: "Stand n°1", lat: 45.136812, lng: 7.769241 }
+            { numero: 20, desc: "MACA - Museo A come Ambiente", lat: 45.137915, lng: 7.771674 },
+            { numero: 19, desc: "AIRC - FOndazione per la ricerca sul cancro", lat: 45.137875, lng: 7.771548 },
+            { numero: 18, desc: "Mupin - Museo Piemontese dell'Informatica", lat: 45.137839, lng: 7.771451 },
+            { numero: 17, desc: "UNITO - Dipartimento di Chimica", lat: 45.137748, lng: 7.771255 },
+            { numero: 16, desc: "Progetto Habitanti", lat: 45.137653, lng: 7.770875 },
+            { numero: 15, desc: "SMAT S.p.A - Società Metropolitana Acque Torino", lat: 45.137597, lng: 7.770773 },
+            { numero: 14, desc: "INRiM - Istituto Nazionale di Ricerca Metrologica", lat: 45.137538, lng: 7.770601 },
+            { numero: 13, desc: "Dipartimento di Scienza e Tecnologia del Farmaco", lat: 45.137426, lng: 7.770325 },
+            { numero: 12, desc: "UNITO Dipartimento di Biotecnologie Molecolari e Scienze per la Salute", lat: 45.137358, lng: 7.770322 },
+            { numero: 11, desc: "INAF - Istituto Nzionale di Astrofisica", lat: 45.137059, lng: 7.770445 },
+            { numero: 10, desc: "Agenda della Disabilità", lat: 45.137226, lng: 7.770290 },
+            { numero: 9, desc: "Agenda della Disabilità", lat: 45.137298, lng: 7.770247 },
+            { numero: 8, desc: "ISTAT - Istituto Nazionale di Statistica", lat: 45.137402, lng: 7.770123 },
+            { numero: 7, desc: "INFN - Istituto Nazionale di Fisica Nucleare", lat: 45.137332, lng: 7.770030 },
+            { numero: 6, desc: "MU-CH - Museo della Chimica e Eduiren", lat: 45.137326, lng: 7.769879 },
+            { numero: 5, desc: "Ecomuseo del Freidano", lat: 45.137273, lng: 7.769716 },
+            { numero: 4, desc: "Associazione CentroScienza Onlus", lat: 45.137175, lng: 7.769507 },
+            { numero: 3, desc: "Biblioteca Archimede", lat: 45.137065, lng: 7.769265 },
+            { numero: 2, desc: "Seta S.p.A - Società Ecologica Territorio Ambiente", lat: 45.136738, lng: 7.769198 },
+            { numero: 1, desc: "Seta S.p.A - Società Ecologica Territorio Ambiente", lat: 45.136812, lng: 7.769241 }
         ];
 
         const puntiInfo = [
