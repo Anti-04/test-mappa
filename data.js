@@ -7,8 +7,9 @@ const puntiFestival = [
                 lng: 7.771170,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "10/10", ora: "15:00", evento: "Questione di millesimi", relatore: "Filippo Tortu e Alessia Succo", noprenot: "INGRESSO LIBERO" },
-                    { giorno: "10/10", ora: "17:00", evento: "Presentazione libro 'Caro Sapiens'", relatore: "Mario Tozzi", noprenot: "INGRESSO LIBERO" }
+                    { giorno: "10/10", ora: "11:00", evento: "Come rompere il muro del silenzio oggi", relatore: "Giulia Innocenzi", noprenot: "ACCESSO LIBERO FINO A ESAURIMENTO POSTI" },
+                    { giorno: "10/10", ora: "15:00", evento: "Questione di millesimi", relatore: "Filippo Tortu e Alessia Succo", noprenot: "ACCESSO LIBERO FINO A ESAURIMENTO POSTI" },
+                    { giorno: "10/10", ora: "17:00", evento: "Presentazione libro 'Caro Sapiens'", relatore: "Mario Tozzi", noprenot: "ACCESSO LIBERO FINO A ESAURIMENTO POSTI" }
                 ]
             },
             {
@@ -55,10 +56,9 @@ const puntiFestival = [
                 lng: 7.768487,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "10/10", ora: "11:30", evento: "Evento istituzionale con camera di commercio" },
-                    { giorno: "10/10", ora: "15:00", evento: "Lo Spazio che diventa Industria", relatore: "Giuseppe Santangelo" },
+                    { giorno: "10/10", ora: "11:30", evento: "Molecolart", relatore: "Elena Piastra, Carmen Vizzari, Maria Luisa Coppa" },
                     { giorno: "10/10", ora: "16:30", evento: "La Cura Intelligente", relatore: "Alessandro Vercelli, Marco Bazzani" },
-                    { giorno: "10/10", ora: "18:00", evento: "SETA?" }
+                    { giorno: "10/10", ora: "18:00", evento: "Re-Agire per l'ambiente", relatore: "Seta S.p.A" }
                 ]
             },
             {
@@ -74,7 +74,18 @@ const puntiFestival = [
                     { giorno: "09/10", ora: "18:00", evento: "Reazioni al Futuro", relatore: "Barbara Galavotti" },
                     { giorno: "09/10", ora: "21:00", evento: "Il pianeta Inquieto", relatore: "Dario Fabbri" },
                     { giorno: "10/10", ora: "Tutti gli orari", evento: "SEDE ALTERNATIVA MALTEMPO" },
+                    { giorno: "10/10", ora: "15:00", evento: "Lo Spazio che diventa Industria", relatore: "Giuseppe Santangelo" },
                     { giorno: "11/10", ora: "Tutti gli orari", evento: "Per maggiori info, vai sul sito di Innova7 in basso" }
+                ]
+            },
+            {
+                titolo: "Via Torino 12",
+                nome: "Settimo in Mostra",
+                lat: 45.1355018,
+                lng: 7.7658567,
+                linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
+                programma: [
+                    { giorno: "09/10, 10/10, 11/10", ora: "dalle 15:00 alle 18:00", evento: "Piante Guerriere: Viaggio tra i vegetali che pensano di essere animali.", relatore: "Raffaella Fiore e Francesco Tomasinelli", noprenot: "INGRESSO LIBERO" }
                 ]
             },
             {
@@ -84,8 +95,7 @@ const puntiFestival = [
                 lng: 7.7803988,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "10/10", ora: "dalle 09:45 alle 11:15", evento: "Workshop di degustazione del acqua", relatore: "SMAT"},
-                    { giorno: "dal 04/10 al 11/10", ora: "dalle 15:00 alle 18:00", evento: "Piante Guerriere: Viaggio tra i vegetali che pensano di essere animali.", relatore: "Raffaella Fiore e Francesco Tomasinelli", noprenot: "INGRESSO LIBERO" }
+                    { giorno: "10/10", ora: "dalle 09:45 alle 11:15", evento: "Workshop di degustazione del acqua", relatore: "SMAT"}
                 ]
             },
             {
@@ -139,8 +149,8 @@ const puntiFestival = [
                 lng: 7.8422854,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "04/10", ora: "11:00", evento: "Scienziatə sarai tu!", relatore: "Andrea Vico" },
-                    { giorno: "04/10", ora: "15:30", evento: "Donne sulla Luna", relatore: "Ilaria Franco" },
+                    { giorno: "04/10", ora: "11:00", evento: "Scienziatə sarai tu!", relatore: "Andrea Vico in collaborazione con Arduino Lab" },
+                    { giorno: "04/10", ora: "15:00", evento: "Donne sulla Luna", relatore: "Gabriella Bernardi e Monia Othmani in collaborazione con Arduino Lab" },
                     { giorno: "04/10", ora: "16:30", evento: "Cosmo Hunters", relatore: "Gabriella Bernardi e Monia Othmani" }
                 ]
             },
@@ -150,7 +160,9 @@ const puntiFestival = [
                 lat: 45.177246,
                 lng: 7.842712,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "04/10", ora: "15:30", evento: "Un cervello dell’età della pietra nell’era digitale", relatore: "Andrea Vico" }]
+                programma: [
+                    { giorno: "04/10", ora: "15:30", evento: "Un cervello dell’età della pietra nell’era digitale", relatore: "Andrea Vico in collaborazione con Arduino Lab" }
+                ]
             },
             {
                 titolo: "Via IV Novembre, 7 - CASTIGLIONE",
@@ -159,8 +171,8 @@ const puntiFestival = [
                 lng: 7.8153922,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "06/10", ora: "21:00", evento: "Reazioni nucleari che fanno bene alla salute", relatore: "Anna Vigniati" },
-                    { giorno: "09/10", ora: "21:00", evento: "Reazioni: non è solo cibo", relatore: "Dott.ssa Alessandra Totaro" }
+                    { giorno: "06/10", ora: "21:00", evento: "Reazioni nucleari che fanno bene alla salute", relatore: "Anna Vigniati e Lorenzo Magnea" },
+                    { giorno: "09/10", ora: "21:00", evento: "Reazioni: non è solo cibo, è cio che diventa", relatore: "Dott.ssa Alessandra Totaro e Valentina Bongiovanni" }
                 ]
             },
             {
@@ -169,7 +181,9 @@ const puntiFestival = [
                 lat: 45.132917,
                 lng: 7.789323,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "04/10", ora: "Visite dalle 10:00 alle 17:00", evento: "VISITE GUIDATE ALL’IMPIANTO DI DEPURAZIONE SMAT", relatore: "SMAT" }]
+                programma: [
+                     { giorno: "04/10", ora: "Visite dalle 10:00 alle 17:00", evento: "VISITE GUIDATE ALL’IMPIANTO DI DEPURAZIONE SMAT", relatore: "SMAT" }
+                 ]
             },
             {
                 titolo: "Via Vittorio Emanuele II, 1 - CHIERI",
@@ -177,7 +191,9 @@ const puntiFestival = [
                 lat: 45.015165,
                 lng: 7.819626,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "06/10", ora: "21:00", evento: "Mostra - 1925 2025 Payne e Leavitt", relatore: "Infini.to - Planetario di Torino" }]
+                programma: [
+                     { giorno: "dal 03/10 al 30/10 dal Lun. al Ven.", ora: "09:00 - 19:00", evento: "Mostra - 1925 2025 Payne e Leavitt: Due Astronome, Un Centenario", relatore: "Infini.to - Planetario di Torino" }
+                 ]
             },
             {
                 titolo: "Corso Francia, 275 - COLLEGNO",
@@ -185,7 +201,9 @@ const puntiFestival = [
                 lat: 45.071363,
                 lng: 7.561855,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "10/10", ora: "10:30", evento: "Truffe online: conoscere per prevenire", relatore: "Polizia Municipale Collegno" }]
+                programma: [
+                     { giorno: "10/10", ora: "10:30", evento: "Truffe online: conoscere per prevenire, reagire per proteggersi", relatore: "Corpo della Polizia Municipale Collegno" }
+                 ]
             },
             {
                 titolo: "Piazza Vittorio Emanuele II, 1 - LEINI'",
@@ -193,7 +211,9 @@ const puntiFestival = [
                 lat: 45.183748,
                 lng: 7.715345,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "09/10", ora: "21:00", evento: "L'Intelligenza Artificiale e il futuro della democrazia", relatore: "Sergio Bellucci" }]
+                programma: [
+                     { giorno: "08/10", ora: "21:00", evento: "Apollo e Artemis: Ieri, Oggi e Domani sulla Luna", relatore: "Antonio Lo Campo" }
+                 ]
             },
             {
                 titolo: "Via Cavour, 31 - MONCALIERI",
@@ -201,7 +221,9 @@ const puntiFestival = [
                 lat: 44.999583,
                 lng: 7.686653,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "08/10", ora: "18:00", evento: "La scienza dell'umore", relatore: "Marina Boido e Filippo Tempia" }]
+                programma: [
+                    { giorno: "08/10", ora: "18:00", evento: "La scienza dell'umore", relatore: "Prof.ssa Marina Boido e Prof. Filippo Tempia" }
+                 ]
             },
             {
                 titolo: "Via A. Azzolina, 4 - NICHELINO",
@@ -210,8 +232,8 @@ const puntiFestival = [
                 lng: 7.638140,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "05/10", ora: "20:45", evento: "Sensi, sinapsi e seduzione", relatore: "Stefano Zucca" },
-                    { giorno: "09/10", ora: "20:45", evento: "La fabbrica del corpo", relatore: "Annalisa Buffo" }
+                    { giorno: "05/10", ora: "20:45", evento: "Sensi, sinapsi e seduzione: I circuiti dell'amore", relatore: "Stefano Zucca" },
+                    { giorno: "09/10", ora: "20:45", evento: "La fabbrica del corpo: Cellule Staminali per riparare i circuiti del cervello", relatore: "Prof.ssa Annalisa Buffo" }
                 ]
             },
             {
@@ -221,9 +243,9 @@ const puntiFestival = [
                 lng: 7.531756,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "06/10", ora: "15:00", evento: "Reazioni chimiche nel trattamento acque", relatore: "Dott.ssa Stefania De Pandis" },
+                    { giorno: "06/10", ora: "15:00", evento: "Reazioni chimiche, fisiche e biologiche nel trattamento delle acque reflue", relatore: "Dott.ssa Stefania De Pandis" },
                     { giorno: "08/10", ora: "15:00", evento: "Psiche e Reazioni", relatore: "Dott.ssa Bruna Costadone" },
-                    { giorno: "10/10", ora: "10:00", evento: "Passaporto da scienziato", relatore: "Dott.ssa Carola Lauritano e Dott.ssa Renata Vai" }
+                    { giorno: "10/10", ora: "10:00", evento: "Passaporto da scienziato", relatore: "Dott.ssa Carola Lauritano e Prof.ssa Renata Vai" }
                 ]
             },
             {
@@ -233,8 +255,8 @@ const puntiFestival = [
                 lng: 7.770475,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
-                    { giorno: "05/10", ora: "17:00", evento: "Reazioni a catena: storie per crescere" },
-                    { giorno: "09/10", ora: "15:30", evento: "Reagire all'esistenza", relatore: "Maria Giuseppa Lo Santo" }
+                    { giorno: "05/10", ora: "17:00", evento: "Letture Animate - Reazioni a catena: storie per crescere", relatore : "A cura delle Lettrici Volontarie di 'Nati per Leggere'" },
+                    { giorno: "09/10", ora: "15:30", evento: "Reagire all'esistenza. Pascal e Spinoza: Dall'Inquietudine alla Gioia", relatore: "Maria Giuseppa Lo Santo" }
                 ]
             },
             {
@@ -244,8 +266,9 @@ const puntiFestival = [
                 lng: 7.627851,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
                 programma: [
+                    { giorno: "08/10 e 09/10", ora: "09:30", evento: "Reazioni a Catena: Break the Walls", relatore: "Walid Bourari", noprenot: "RISERVATO ALLE SCUOLE ADERENTI" },
                     { giorno: "09/10", ora: "19:00", evento: "Reazioni Culturali: Insieme in carcere", relatore: "DOC APS" },
-                    { giorno: "10/10", ora: "11:30", evento: "La fantastica Reazione", relatore: "Antonio Argenio" }
+                    { giorno: "10/10", ora: "11:00", evento: "La fantastica Reazione", relatore: "Antonio Argenio" }
                 ]
             }
         ];
