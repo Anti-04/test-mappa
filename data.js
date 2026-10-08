@@ -129,7 +129,9 @@ const puntiFestival = [
                 lat: 45.085256,
                 lng: 7.395161,
                 linkAgenda: "https://www.innova7.it/wp-content/uploads/2025/07/Brochure-Web-Reazioni_def.pdf",
-                programma: [{ giorno: "07/10", ora: "11:00", evento: "Lascia scorrere", relatore: "Riccardo Maria Degiovanni" }]
+                programma: [
+                    { giorno: "07/10", ora: "11:00", evento: "Lascia scorrere", relatore: "Riccardo Maria Degiovanni" }
+                 ]
             },
             {
                 titolo: "via IV Novembre, 19 - AVIGLIANA",
